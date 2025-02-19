@@ -1,4 +1,4 @@
-##👋 Hi there! I'm a first-year student at Anhui Agricultural University, passionate about exploration and diving into new tech and ideas. Originally from the vibrant city of Wuhan, I’m always eager to learn and share my journey.
+👋 Hi there! I'm a first-year student at Anhui Agricultural University, passionate about exploration and diving into new tech and ideas. Originally from the vibrant city of Wuhan, I’m always eager to learn and share my journey.
 
 🌱 About Me
 Currently studying: Electronics and Information
